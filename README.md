@@ -244,7 +244,6 @@ The system includes a built-in `SelfDebugger` that prints fix tips for common er
 
 **Hari** & **Kankeshraj A**
 Final Year B.E. — Electrical and Electronics Engineering (VIII Semester)
-Guided by **Dr. D. Prince Winston **
 
 ---
 
